@@ -1,0 +1,7 @@
+import:
+First,read airlines.csv and create airlines table
+Second,read airports.csv and create airports table(set the city and sate to NULL first)
+Then,read flights.csv and create flights table(at the same time UPDATE airports table)
+
+
+No known bugs.
